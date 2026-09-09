@@ -2,6 +2,8 @@
 
 **A compact keyboard for your mouse, NumPad and gamepad — by BRADAIGA.**
 
+A tribute to classic phone keypads: 12 buttons, multi-tap and T9. A familiar way to type, now on Windows.
+
 [Русский](README.md) · [Download for Windows](https://github.com/BRADAIGA/PocketKeyboard/releases/latest) · [Release history](https://github.com/BRADAIGA/PocketKeyboard/releases) · [Report a bug](https://github.com/BRADAIGA/PocketKeyboard/issues/new)
 
 ![Pocket Keyboard](images/pocket-keyboard.png)
