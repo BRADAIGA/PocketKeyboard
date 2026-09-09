@@ -9,9 +9,10 @@
 ## Features
 
 - Twelve-button text input using a mouse, NumPad, custom bindings or supported controllers.
+- Six additional multi-tap layouts: Ukrainian, German, French, Spanish, Italian and Portuguese.
 - Russian and English predictive T9, multi-tap input and a personal word dictionary.
 - Optional on-screen input, hold actions and key combinations.
-- Fifteen themes with search, filters, illustrated HD designs and animated scenes.
+- Sixteen themes with search, filters, illustrated HD designs and animated scenes.
 - Separate interface language and typing layout.
 - Update checks and verified installer downloads, installed after confirmation.
 
