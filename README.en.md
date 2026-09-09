@@ -1,8 +1,10 @@
 # Pocket Keyboard
 
-**A compact keyboard for your mouse, NumPad and gamepad — by BRADAIGA.**
+**A compact keyboard for your mouse, NumPad and gamepad.**
 
 A tribute to classic phone keypads: 12 buttons, multi-tap and T9. A familiar way to type, now on Windows.
+
+For using your computer from bed when the standard on-screen keyboard takes up too much space. Type by clicking the keys, or use your mouse's side buttons directly.
 
 [Русский](README.md) · [Download for Windows](https://github.com/BRADAIGA/PocketKeyboard/releases/latest) · [Release history](https://github.com/BRADAIGA/PocketKeyboard/releases) · [Report a bug](https://github.com/BRADAIGA/PocketKeyboard/issues/new)
 

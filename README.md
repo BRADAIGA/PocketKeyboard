@@ -1,8 +1,10 @@
 # Pocket Keyboard
 
-**Карманная клавиатура для мыши, NumPad и геймпада — by BRADAIGA.**
+**Карманная клавиатура для мыши, NumPad и геймпада.**
 
 Дань уважения клавиатурам кнопочных телефонов: 12 кнопок, перебор букв и T9. Знакомый способ набирать текст — теперь на Windows.
+
+Для тех, кто любит пользоваться компьютером лёжа в кровати, а стандартная экранная клавиатура занимает слишком много места. Можно набирать текст кликами мыши; с боковыми кнопками — прямо на мыши.
 
 [English](README.en.md) · [Скачать для Windows](https://github.com/BRADAIGA/PocketKeyboard/releases/latest) · [История версий](https://github.com/BRADAIGA/PocketKeyboard/releases) · [Сообщить о проблеме](https://github.com/BRADAIGA/PocketKeyboard/issues/new)
 
