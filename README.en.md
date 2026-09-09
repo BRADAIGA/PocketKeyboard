@@ -1,6 +1,6 @@
 # Pocket Keyboard
 
-**A compact keyboard for your mouse, NumPad and gamepad.**
+**A compact keyboard for your mouse and NumPad.**
 
 A tribute to classic phone keypads: 12 buttons, multi-tap and T9. A familiar way to type, now on Windows.
 
@@ -12,7 +12,7 @@ For using your computer from bed when the standard on-screen keyboard takes up t
 
 ## Features
 
-- Twelve-button text input using a mouse, NumPad, custom bindings or supported controllers.
+- Twelve-button text input using a mouse, NumPad or custom bindings.
 - Six additional multi-tap layouts: Ukrainian, German, French, Spanish, Italian and Portuguese.
 - Russian and English predictive T9, multi-tap input and a personal word dictionary.
 - Optional on-screen input, hold actions and key combinations.
@@ -26,7 +26,13 @@ Download **PocketKeyboard-Setup-…exe** from the [latest release](https://githu
 
 Requires Windows x64. AutoHotkey is bundled; no separate installation is needed. Installation is per-user.
 
-Open **Settings → Device and key bindings**. For a twelve-button mouse, assign F13–F24 in the manufacturer's software. NumPad uses physical positions: **7–8–9 / 4–5–6 / 1–2–3 / decimal–0–Enter**. Custom bindings are captured by selecting a field and pressing a device button. The **?** button opens a quick guide.
+Open **Settings → Device and key bindings** and choose a profile:
+
+- **Twelve-button mouse:** assign **F13–F24** to buttons 1–12 in order in your mouse software.
+- **Custom bindings:** select this profile, click a field, then press the desired button. F13–F24 are optional.
+- **NumPad:** preset physical positions **7–8–9 / 4–5–6 / 1–2–3 / decimal–0–Enter**.
+
+Click **Apply** to save your selection. The **?** button opens a quick guide.
 
 Some games and protected fields may reject software-generated input. Nonstandard HID support depends on the device driver.
 
