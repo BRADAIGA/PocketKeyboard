@@ -26,9 +26,8 @@ Download **PocketKeyboard-Setup-…exe** from the [latest release](https://githu
 
 Requires Windows x64. AutoHotkey is bundled; no separate installation is needed. Installation is per-user.
 
-Open **Settings → Device and key bindings** and choose how to type:
+Open **Settings → Device and key bindings** and choose a profile:
 
-- **On-screen mouse input:** enable the checkbox and click the on-screen keys. No key bindings are needed; this mode works independently of the selected profile.
 - **Twelve-button mouse:** assign **F13–F24** to buttons 1–12 in order in your mouse software.
 - **Custom bindings:** select this profile, click a field, then press the desired button. F13–F24 are optional.
 - **NumPad:** preset physical positions **7–8–9 / 4–5–6 / 1–2–3 / decimal–0–Enter**.
